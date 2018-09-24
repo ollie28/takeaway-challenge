@@ -11,3 +11,7 @@ class Menu
     end.join(", ")
   end
 end
+
+
+# string interp on line 10
+# fancy array on line 9
